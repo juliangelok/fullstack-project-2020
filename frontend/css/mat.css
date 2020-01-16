@@ -1,0 +1,15 @@
+body{
+	background-color: #00A08A;
+	text-align: center;
+}
+
+font{
+	color: #f60018;
+}
+
+.ty{
+	width: 300px;
+	position: absolute;
+    margin: 125px 0 0 150px;
+    border: none;
+}

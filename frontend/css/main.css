@@ -1,0 +1,44 @@
+body {
+	background-color: #000;
+}
+
+.hand {
+	width: 300px; 
+	border: none;
+}
+
+.hands {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -350px;
+    border: none;
+}
+
+.mat {
+	width: 600px; 
+    position: absolute;
+    margin: 350px 0 0 900px;
+    border: none;
+}
+
+.goose {
+	width: 200px; 
+    position: absolute;
+    margin: 200px 0 0 1200px;
+    border: none;
+}
+
+.mirror {
+	width: 200px;
+	position: absolute;
+    margin: 10px 0 0 610px;
+    border: none;
+}
+
+.plan {
+	width: 400px;
+	position: absolute;
+    margin: 100px 0 0 10px;
+    border: none;
+}
